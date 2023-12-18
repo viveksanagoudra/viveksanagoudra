@@ -1,3 +1,4 @@
+![logo](https://github.com/viveksanagoudra/viveksanagoudra/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm VIVEK SANAGOUDRA</h1>
 <h3 align="center">A passionate AI&ML ENGINEER from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/viveksanagoudra/viveksanagoudra/assets/128734522/3f65b780-d6b5-443b-a744-87ae540c4b5b">
