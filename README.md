@@ -18,4 +18,7 @@
 Static UI is a bug.
 Motion is a feature.
 Interaction is the product.
-
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viveksanagoudra/viveksanagoudra/output/github-contribution-grid-snake.svg" />
+</p>
