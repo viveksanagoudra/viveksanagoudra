@@ -31,3 +31,10 @@ Interaction is the product.
 <p align="center">
   <img src="https://raw.githubusercontent.com/viveksanagoudra/viveksanagoudra/output/github-contribution-grid-snake.svg" />
 </p>
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://web-portfolio-vivek.netlify.app/"><img src="https://img.shields.io/badge/-vivek-sanagoudra-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vivek-sanagoudra"><img src="https://img.shields.io/badge/-Vivek%20Sanagoudra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:viveksanagoudra@gmail.com"><img src="https://img.shields.io/badge/-viveksanagoudra@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
