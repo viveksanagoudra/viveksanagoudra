@@ -13,7 +13,7 @@ jobs:
 
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: VivekSanagoudra
+          github_user_name: viveksanagoudra
           outputs: |
             dist/github-contribution-grid-snake.svg
 
