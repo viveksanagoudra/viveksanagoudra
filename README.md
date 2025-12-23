@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&text=VIVEK%20SANAGOUDRA&fontSize=42&fontAlignY=40&desc=WEB%20ANIMATOR%20|%20GAME%20ENGINEER&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&text=VIVEK%20SANAGOUDRA&fontSize=42&fontAlignY=40&desc=WEB%20ANIMATOR%20|%20WEB%20ENGINEER&descAlignY=65&animation=fadeIn" />
 </p>
 
 <p align="center">
