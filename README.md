@@ -20,12 +20,11 @@ Motion is a feature.
 Interaction is the product.
 ```
 ## My Stats
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<tr style="border:none;">
 
-<p>
-<a href="https://github.com/viveksanagoudra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viveksanagoudra&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+<td width="55%" valign="top" style="border:none;">
+
 <h3>🧠 Programming & Markup</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -58,6 +57,23 @@ Interaction is the product.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+</td>
+
+<td width="45%" valign="top" style="border:none;">
+
+<p align="center">
+  <a href="https://github.com/viveksanagoudra">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viveksanagoudra&theme=radical&layout=compact&exclude_lang=java+r" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
 
 
 <p align="center">
