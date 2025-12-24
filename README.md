@@ -21,6 +21,12 @@ Interaction is the product.
 ```
 ## My Stats
 
+<p>
+<a href="https://github.com/viveksanagoudra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viveksanagoudra&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/viveksanagoudra/viveksanagoudra/output/github-contribution-grid-snake.svg" />
 </p>
