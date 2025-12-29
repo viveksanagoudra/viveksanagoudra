@@ -97,5 +97,6 @@ Interaction is the product.
   </a>
 </p>
 
+<img src="assets/vivek-real-racer.svg" />
 
 
