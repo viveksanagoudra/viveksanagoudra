@@ -1,1 +1,94 @@
+<svg viewBox="0 0 800 220" width="100%" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ROAD -->
+  <rect x="0" y="90" width="800" height="120" fill="#020617"/>
+  <line x1="0" y1="130" x2="800" y2="130" stroke="#475569" stroke-width="2"/>
+  <line x1="0" y1="170" x2="800" y2="170" stroke="#475569" stroke-width="2"/>
+
+  <!-- MOVING DASH -->
+  <line x1="0" y1="150" x2="800" y2="150"
+    stroke="#94a3b8" stroke-width="3" stroke-dasharray="18 18">
+    <animate attributeName="stroke-dashoffset"
+      from="0" to="-36" dur="0.7s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- OBSTACLE CARS -->
+  <g fill="#fb7185">
+    <rect y="105" width="60" height="26" rx="6">
+      <animate attributeName="x" from="820" to="-80" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect y="145" width="60" height="26" rx="6">
+      <animate attributeName="x" from="950" to="-80" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect y="185" width="60" height="26" rx="6">
+      <animate attributeName="x" from="1080" to="-80" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- PLAYER CAR -->
+  <g transform="translate(160 105)">
+    <!-- Lane switching (fake avoidance) -->
+    <animateTransform
+      type="translate"
+      values="0 0; 0 40; 0 -40; 0 0"
+      dur="6s"
+      repeatCount="indefinite"/>
+
+    <!-- Nitro -->
+    <polygon points="-25,35 -50,25 -50,45" fill="#38bdf8">
+      <animate attributeName="opacity"
+        values="1;0.2;1" dur="0.25s" repeatCount="indefinite"/>
+    </polygon>
+
+    <!-- Car Body -->
+    <path d="
+      M0 30
+      L20 10
+      L85 10
+      L110 30
+      L140 30
+      L150 38
+      L150 55
+      L0 55 Z"
+      fill="#22d3ee"/>
+
+    <!-- Window -->
+    <path d="M30 14 L80 14 L95 28 L30 28 Z" fill="#020617"/>
+
+    <!-- Wheels -->
+    <g transform="translate(35 55)">
+      <circle r="10" fill="#020617"/>
+      <circle r="3" fill="#94a3b8"/>
+      <animateTransform type="rotate"
+        from="0" to="360" dur="1s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(115 55)">
+      <circle r="10" fill="#020617"/>
+      <circle r="3" fill="#94a3b8"/>
+      <animateTransform type="rotate"
+        from="0" to="360" dur="1s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- TITLE -->
+  <text x="400" y="50"
+    text-anchor="middle"
+    font-size="26"
+    fill="#22d3ee"
+    font-family="monospace">
+    VIVEK REAL RACER
+  </text>
+
+  <text x="400" y="70"
+    text-anchor="middle"
+    font-size="12"
+    fill="#94a3b8"
+    font-family="monospace">
+    MULTI-LANE | OBSTACLE DODGE | README SVG
+  </text>
+
+</svg>
 
